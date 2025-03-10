@@ -2,7 +2,7 @@
 
 ### **Connect India Post: Diaspora-Connect**
 
-* GitHub Pages Link: [https://aryankanojia9654.github.io/DiasporaConnect-Innov8torX/](https://aryankanojia9654.github.io/DiasporaConnect-Innov8torX/)
+* Demo: [Click here](https://diaspora-connect-gkep.vercel.app/)
 
 A platform connecting the Indian diaspora with authentic Rakhis and handicrafts from India.
 

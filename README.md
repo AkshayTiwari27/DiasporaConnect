@@ -2,7 +2,7 @@
 
 ### **Connect India Post: Diaspora-Connect**
 
-* Demo: [Click here](https://diaspora-connect-gkep.vercel.app/)
+* Deployment Link: [Click here](https://diaspora-connect-gkep.vercel.app/)
 
 A platform connecting the Indian diaspora with authentic Rakhis and handicrafts from India.
 

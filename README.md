@@ -82,11 +82,12 @@ A platform connecting the Indian diaspora with authentic Rakhis and handicrafts 
 
 **EMAIL IDs-**
 
-1. arindam0singh@gmail.com 
-2. yashijha12@gmail.com
-3. tiwariakshay590@gmail.com
-4. pg1452502@gmail.com
-5. Kushwahaprabhat30@gmail.com
+1. aryankanojia354@gmail.com
+2. arindam0singh@gmail.com 
+3. yashijha12@gmail.com
+4. tiwariakshay590@gmail.com
+5. pg1452502@gmail.com
+6. Kushwahaprabhat30@gmail.com
 
 **Project Description:**
 
